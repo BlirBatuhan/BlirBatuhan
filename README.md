@@ -15,4 +15,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blirbatuhan&" alt="blirbatuhan" /></p>
 
-![Snake animation](https://github.com/BlirBatuhan/BlirBatuhan/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BlirBatuhan/BlirBatuhan/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
